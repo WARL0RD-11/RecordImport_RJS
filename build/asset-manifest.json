@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecordImport_RJS/static/css/main.9209df16.css",
+    "main.js": "/RecordImport_RJS/static/js/main.ff214f0f.js",
+    "index.html": "/RecordImport_RJS/index.html",
+    "main.9209df16.css.map": "/RecordImport_RJS/static/css/main.9209df16.css.map",
+    "main.ff214f0f.js.map": "/RecordImport_RJS/static/js/main.ff214f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9209df16.css",
+    "static/js/main.ff214f0f.js"
+  ]
+}
